@@ -14,12 +14,12 @@ class App extends React.Component {
       order: {}
     };
    
-   this.addmushroom = this.addMushroom.bind(this);
+   this.addMushroom = this.addMushroom.bind(this);
    this.loadSamples= this.loadSamples.bind(this);
    this.addToOrder = this.addToOrder.bind(this);
    this.removeFromOrder = this.removeFromOrder.bind(this);
-   this.updatemushroom = this.updateMushroom.bind(this);
-   this.removemushroom = this.removeMushroom.bind(this);
+   this.updateMushroom = this.updateMushroom.bind(this);
+   this.removeMushroom = this.removeMushroom.bind(this);
   }
 
   componentWillMount() {

@@ -32,6 +32,6 @@ class AddMushroomForm extends React.Component {
 }
 
 AddMushroomForm.propTypes = {
-  addmushroom: React.PropTypes.func.isRequired
+  addMushroom: React.PropTypes.func.isRequired
 }
 export default AddMushroomForm;

@@ -2,6 +2,7 @@ import React from 'react';
 import AddMushroomForm from './AddMushroomForm';
 import base from '../base';
 
+
 class Inventory extends React.Component {
   constructor() {
     super();
